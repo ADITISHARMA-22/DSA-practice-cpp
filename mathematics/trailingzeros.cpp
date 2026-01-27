@@ -44,6 +44,3 @@ int main(){
 
 // 5^k <= n  => k < = log5 n  => k = floor(log5 n)
 // Thus, the loop runs for k iterations, leading to a time complexity of O(log5 n).
-
-
-
