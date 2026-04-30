@@ -18,3 +18,6 @@ int main() {
         cout << originalNumber << " is not a palindrome." << endl;
     return 0;
 }
+
+// Time Complexity: O(d) where d is the number of digits in the number
+// Space Complexity: O(1)   
